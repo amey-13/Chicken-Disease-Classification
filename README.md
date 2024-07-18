@@ -1,1 +1,1 @@
-# Chicken-Disease_Classification
+# Chicken-Disease-Classification
